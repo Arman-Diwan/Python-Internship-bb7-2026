@@ -1,0 +1,6 @@
+1. What is Programming?
+Programming means giving instructions to a computer to perform a particular task. We write these instructions using programming languages like Python, Java, and C++. It helps us solve problems and make our work easier. We use programming to create websites, apps, games, and different types of software.
+2. What is Python and why is it popular?
+Python is a programming language that is easy to learn and understand. Its code is simple to read, so even beginners can start learning it without much difficulty. It is popular because it can be used in many fields, such as web development, artificial intelligence, and data science. It also has many useful libraries that make programming easier.
+3. What is the difference between Git and GitHub?
+Git and GitHub are both used by developers to manage their code, but they are different. Git is a tool that helps us track changes in our code and go back to previous versions when needed. GitHub is a website where we can upload our code, store projects, and share them with others. In simple words, Git works on our computer, while GitHub helps us store and share our code online.
